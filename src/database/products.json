@@ -1,0 +1,95 @@
+ [
+    {
+    "id":"1",
+      "name": "chair",
+     "price": "120",
+     "oldPrice": "200",
+     "img": "https://mysleepyhead.com/media/catalog/product/r/e/recg96xq3zg3rgnm_0_1.jpg?auto=webp&format=pjpg&width=320&height=400&fit=cover",
+     "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni labore ipsum quos deleniti eligendi facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, mollitia! Optio quod repellat rerum. Corporis.",
+    "category":"chair"
+    },
+    {
+        "id":"2",
+        "name": "chair",
+       "price": "120",
+       "oldPrice": "200",
+       "img": "https://www.nestroots.com/cdn/shop/products/square_1_2_800x.png?v=1671125883",
+       "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni labore ipsum quos deleniti eligendi facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, mollitia! Optio quod repellat rerum. Corporis.",
+       "category":"chair"
+    },
+    {
+        "id":"3",
+      "name": "chair",
+     "price": "120",
+     "oldPrice": "200",
+     "img": "https://i0.wp.com/shopps.in/wp-content/uploads/2023/03/5rde43.webp?resize=768%2C768&ssl=1",
+     "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni labore ipsum quos deleniti eligendi facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, mollitia! Optio quod repellat rerum. Corporis.",
+     "category":"chair"
+    },
+    {
+        "id":"4",
+        "name": "chair",
+       "price": "120",
+       "oldPrice": "200",
+       "img": "https://www.nestroots.com/cdn/shop/products/nestroots-metallic-stools-ottoman-footrest-extra-sitting-seat-for-living-room-drawing-room-gifting-home-decoration-stools-pouf-iron-metal-ottomans-3_c023bd51-aebd-40e0-bf43-c4797c93da63_800x.jpg?v=1651746299",
+       "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni labore ipsum quos deleniti eligendi facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, mollitia! Optio quod repellat rerum. Corporis.",
+       "category":"chair"
+    }
+    ,
+    {
+        "id":"5",
+      "name": "chair",
+     "price": "120",
+     "oldPrice": "200",
+     "img": "https://www.nestroots.com/cdn/shop/products/nestroots-metallic-stools-ottoman-footrest-extra-sitting-seat-for-living-room-drawing-room-gifting-home-decoration-stools-pouf-iron-metal-ottomans-7_f6966b00-c1c6-4463-9247-8a761977e0be_800x.jpg?v=1698304245",
+     "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni labore ipsum quos deleniti eligendi facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, mollitia! Optio quod repellat rerum. Corporis.",
+     "category":"chair"
+    },
+    {
+      "id":"r1",
+        "name": "chair",
+       "price": "120",
+       "oldPrice": "200",
+       "img": "https://dreamlineoutdoorfurniture.com/cdn/shop/products/ezgif-2-33682e1df60d.jpg?v=1630827309&width=900",
+       "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni labore ipsum quos deleniti eligendi facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, mollitia! Optio quod repellat rerum. Corporis.",
+      "category":"chair"
+      },
+      {
+          "id":"r2",
+          "name": "chair",
+         "price": "120",
+         "oldPrice": "200",
+         "img": "https://5.imimg.com/data5/IP/GL/WO/SELLER-13083676/wooden-office-tables-chair-set-1000x1000.jpg",
+         "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni labore ipsum quos deleniti eligendi facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, mollitia! Optio quod repellat rerum. Corporis.",
+         "category":"table"
+      },
+      {
+          "id":"r3",
+        "name": "chair",
+       "price": "120",
+       "oldPrice": "200",
+       "img": "https://cdn.decornation.in/wp-content/uploads/2020/06/solid-wood-dining-table-chair-800x800.jpg",
+       "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni labore ipsum quos deleniti eligendi facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, mollitia! Optio quod repellat rerum. Corporis.",
+       "category":"chair"
+      },
+      {
+          "id":"r4",
+          "name": "chair",
+         "price": "120",
+         "oldPrice": "200",
+       "img": "https://5.imimg.com/data5/XP/KV/TK/SELLER-1108982/rastogi-office-table.jpg",
+  
+         "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni labore ipsum quos deleniti eligendi facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, mollitia! Optio quod repellat rerum. Corporis.",
+         "category":"table"
+      }
+      ,
+      {
+          "id":"r5",
+        "name": "chair",
+       "price": "120",
+       "oldPrice": "200",
+       "img": "https://www.luckyfurniture.in/wp-content/uploads/2018/07/computer-table-650x750.jpg",
+       "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni labore ipsum quos deleniti eligendi facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, mollitia! Optio quod repellat rerum. Corporis.",
+       "category":"table"
+      }
+  ]

@@ -1,38 +1,122 @@
-.App {
-  text-align: center;
+.nav-pills .nav-item .active{
+  background-color:white !important;
+  border: 2px solid #BB2D3B !important;
+  color:#BB2D3B !important;
+}
+.nav-pills .nav-item button{
+  color: black !important;
+}
+#footer p a{
+  text-decoration: none;
+  color: #383838 !important;
+
+}
+#footer{
+  background-color: #F0F0F0 !important;
+  color: #383838 !important;
+  line-height: 1.5vh;
+}
+nav{
+  background-color: #F0F0F0 !important;
+ 
+}
+/* .card:hover #card-icon i{
+  color: black !important;
+} */
+.btns:hover{
+  background-color: #BB2D3B !important;
+  color: white !important;
+  border: none !important;
+}
+input ,textarea{
+  background-color: #dadada !important;
+}
+.icon:hover{
+  color: #FF383F !important;
+  scale: 1.04 !important;
+transition: all cubic-bezier(0.19, 1, 0.22, 1) 1s;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.new{
+  width: 100%;
   display: flex;
-  flex-direction: column;
+  overflow-x: auto;
+  gap: 20px;
+}
+
+.new::-webkit-scrollbar{
+display: none;
+}
+
+.add-to-cart:hover{
+  border: 1px solid #444444 !important;
+  color: #444444 !important;
+  background-color: transparent !important;
+  scale: 1.02 !important;
+  transition: all cubic-bezier(0.19, 1, 0.22, 1) 1s;
+      }
+
+      #btn {
+          display: none;
+          cursor: pointer;
+          position: fixed;
+          bottom: 100px;
+          right: 30px;
+          z-index: 99;
+          width: 50px;
+          height: 50px;
+          border-radius: 50%;
+          background-color:#FF383F;
+          color: white;
+          border: none;
+        }
+
+        #footer p a:hover{
+  color: #FF383F !important;
+  font-weight: 700;
+}    
+/* loader css */
+
+
+.loader {
+  border: 16px solid #f3f3f3;
+  /* Light grey */
+  border-top: 16px solid #BB2E20;
+  /* Blue */
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+  z-index: 99999;
+  /* position: absolute; */
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  /* background-color: #fff; */
+}
+
+.loader-big {
+  width: 100%;
+  height: 100%;
+  /* position: relative; */
+  position: absolute;
+  z-index: 99999;
+  display: flex;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  background-color: #2a2a2a;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
+@keyframes spin {
+  0% {
     transform: rotate(0deg);
   }
-  to {
+
+  100% {
     transform: rotate(360deg);
   }
+}
+.stop{
+height: 100%;
+overflow: hidden;
 }
